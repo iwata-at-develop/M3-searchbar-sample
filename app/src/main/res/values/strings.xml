@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">M3Sample</string>
+
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="history">History</string>
+
+    <string name="search_pokemon_name">search pokemon names</string>
+    <string name="not_found">Not found</string>
+    <string name="no_search_history">No search history</string>
+</resources>
